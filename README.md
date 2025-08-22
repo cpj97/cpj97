@@ -1,9 +1,9 @@
 ### Hi there, fellow public policy and data science enthusiasts! 👋
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-pedraza-jim%C3%A9nez-67257a182/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpedrazaj97@gmail.com)
 
-I am Camilo Pedraza Jiménez, a Colombian Economist and Political Scientist currently studying a Master's in Data Science at [Hertie School](https://www.hertie-school.org/en/), where I also got a Master's in Public Policy.
+I am Camilo Pedraza Jiménez, a PhD Researcher at [Hertie School](https://www.hertie-school.org/en/), where I also got a Master's in Public Policy and in Data Science.
 
-🤓 During my studies, I've developed interest in quantitative methods, specially in statistics and causal inference 📈. More recently, I have got more in depth knowledge on data science techniques, such as applied machine learning, natural language processing and geospatial analysis 🌏. In, this regard, I use such skills to address public policy issues and look for solutions that contribute to a sustainable development 🌱.
+🤓 During my studies, I've developed interest in quantitative methods, specially in statistics and causal inference 📈. More recently, I have got more in depth knowledge on data science techniques, such as applied machine learning, natural language processing and geospatial analysis 🌏. In, this regard, I use such skills to address public policy issues and look for solutions that contribute to a sustainable development, focusing on deforestation and agricultural development in Colombia 🌱.
 
 **Additionally, I combine my career with my current passion for bouldering**🧗
 
